@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,EACI,sCACJ,CACA,KACI,YACJ,CACA,MAEI,gBAAiB,CACjB,UAAU,CACV,UACJ","file":"main.8875868d.chunk.css","sourcesContent":["* {\r\n    font-family: helvetica,arial,sans-serif;\r\n}\r\nbody{\r\n    padding: 60px;\r\n}\r\ninput{\r\n\r\n    font-size: 1.2rem;\r\n    color:grey;\r\n    width:100%;\r\n}"]}
